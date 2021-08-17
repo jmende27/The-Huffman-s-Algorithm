@@ -1,4 +1,4 @@
-# The-Huffman-s-Algorithm
+# The-Huffmans-Algorithm
 -The Huffman algorithm is a lossless, data-compression algorithm. 
 
 -Given an input text file, the program must do the following:
